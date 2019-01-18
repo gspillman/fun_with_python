@@ -1,0 +1,5 @@
+Hi there!
+
+Your name is {name}.
+The date is {date}
+I hope that you like {thing}.
